@@ -9,7 +9,7 @@ Every day I study one topic, write notes in my own words, and push my code here.
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | [NumPy basics](day01-numpy-basics) | ✅ |
-| 2 | [NumPy broadcasting and linear algebra](day02-numpy-broadcasting-linear-algebra) | ⬜ |
+| 2 | [NumPy broadcasting and linear algebra](day02-numpy-broadcasting-linear-algebra) | ✅ |
 | 3 | [NumPy mini project](day03-numpy-mini-project) | ⬜ |
 | 4 | [Pandas basics](day04-pandas-basics) | ⬜ |
 | 5 | [Pandas data cleaning](day05-pandas-data-cleaning) | ⬜ |
